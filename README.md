@@ -22,7 +22,7 @@ Long-term, I want to build technology that reduces humanity's existential debt.
 
 Current interests: ambient AI, mechanistic interpretability, latent agent-to-agent protocols, economics, superforecasting, existential literature and philosophy, fire technology, aerospace, and inference-time systems.
 
-## Building
+## Things
 
 **wrdn**  
 An AI accountability system for your life. It uses ambient audio and visual context to build a long-term model of your goals, values, and habits, then helps you notice when you're drifting from what matters. I am building the stack from kernels to hardware.

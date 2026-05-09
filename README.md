@@ -1,17 +1,5 @@
 <h1 align="center">Naman Chetwani</h1>
 
-<p align="center">
-  15-year-old engineer building across ambient AI, fire technology, aerospace, and machine learning.
-</p>
-
-<p align="center">
-  <a href="mailto:naman.chetwani@gmail.com">Email</a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/coder-2011/Strategic-Blackline-Optimization-Network">SBON</a>
-  &nbsp;/&nbsp;
-  <a href="https://github.com/coder-2011/no-circles">No Circles</a>
-</p>
-
 ---
 
 ## About

@@ -40,14 +40,6 @@ A personalized daily newsletter that learns from what each reader responds to, b
 **PHOENIX UAV**  
 Early wildfire detection UAV project. Placed 2nd at the California State Science Fair, 1st at regionals, won the Junior Lemelson-MIT Inventor Award, and earned selection for national competition.
 
-## Other signal
-
-- Selected for SPARC '26.
-- USACO Gold.
-- F=MA qualifying score.
-- Competed in CALICO, Harker Physics Invitational, Harker Programming Invitational, and national-circuit debate.
-- Independently studied math through multivariable calculus and linear algebra, plus ML and transformer theory, in under a year.
-
 ## Things I care about
 
 - Thinking ruthlessly independently.

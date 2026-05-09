@@ -19,6 +19,7 @@
 I'm trying to get better at asking great questions, building things that matter, and thinking independently. I like projects that sit at the edge of hardware, AI, and real-world systems.
 
 Long-term, I want to build great technology.
+I want to go to Mars.
 
 Current interests: ambient AI, mechanistic interpretability, latent agent-to-agent protocols, economics, superforecasting, existential literature and philosophy, fire technology, aerospace, and inference-time systems.
 
